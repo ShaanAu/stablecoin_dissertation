@@ -6,4 +6,4 @@ This project aims to detect investing anomalies in the cryptocurrency market, sp
 
 ## Motivation
 
-The stability of stablecoins is pivotal in the cryptocurrency market, providing a relatively safe haven during volatile periods. However, instances of depegging can lead to significant market disruptions. By identifying potential depegging events before they occur, our project aims to contribute to a more stable and predictable market environment.
+The stability of stablecoins is pivotal in the cryptocurrency market, providing a relatively safe haven during volatile periods. However, instances of depegging can lead to significant market disruptions. By identifying depegging events, our project aims to contribute to a more stable and predictable market environment.
